@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<Galoomba>](https://circleci.com/gh/Galoomba/Microservice--MachineLearning.svg?style=svg)](https://circleci.com/gh/Galoomba/Microservice--MachineLearning)
 
 ## Project Overview
 
